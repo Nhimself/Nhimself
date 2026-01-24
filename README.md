@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nhimself
 - 👀 I’m interested in 3D printing with my Prusa Mini+
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on arduino projects
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to have fun
 - 📫 How to reach me ...
 
 <!---
