@@ -33,7 +33,7 @@ Four skills:
 Mods for [StarRupture](https://store.steampowered.com/app/3809400/StarRupture/) (Steam):
 
 - **[starrupture_timermod](https://github.com/Nhimself/starrupture_timermod)** — timer mod for the AlienX modloader (free)
-- **[starrupture_timermod_streamcontroller](git@github.com:Nhimself/starrupture_streamcontroller.git)** — StreamController plugin for StarRupture on Linux (free)
+- **[starrupture_streamcontroller](git@github.com:Nhimself/starrupture_streamcontroller.git)** — StreamController plugin for StarRupture on Linux (free)
 - **[SteamDeck_StarRupture_Timer](https://github.com/Nhimself/SteamDeck_StarRupture_Timer)** - StreamDeck feedback integration [Elgato Marketplace](https://marketplace.elgato.com/product/star-rupture-timer-92a0d149-2c03-46c6-a245-1cdd5e39506a) — bug reports and feature requests goes in this repo
 
 Also running a dedicated server: **[startupture_docker](https://github.com/Nhimself/startupture_docker)** — StarRupture server on Linux via GE-Proton
