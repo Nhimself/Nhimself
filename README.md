@@ -33,7 +33,7 @@ Four skills:
 Mods for [StarRupture](https://store.steampowered.com/app/3809400/StarRupture/) (Steam):
 
 - **[starrupture_timermod](https://github.com/Nhimself/starrupture_timermod)** — timer mod for the AlienX modloader (free)
-- **[starrupture_steamdeck_linux_plugin](https://github.com/Nhimself/starrupture_steamdeck_linux_plugin)** — StreamController plugin for StarRupture on Linux (free)
+- **[starrupture_timermod_streamcontroller](git@github.com:Nhimself/starrupture_streamcontroller.git)** — StreamController plugin for StarRupture on Linux (free)
 - **[SteamDeck_StarRupture_Timer](https://github.com/Nhimself/SteamDeck_StarRupture_Timer)** - StreamDeck feedback integration [Elgato Marketplace](https://marketplace.elgato.com/product/star-rupture-timer-92a0d149-2c03-46c6-a245-1cdd5e39506a) — bug reports and feature requests goes in this repo
 
 Also running a dedicated server: **[startupture_docker](https://github.com/Nhimself/startupture_docker)** — StarRupture server on Linux via GE-Proton
@@ -44,8 +44,9 @@ Also running a dedicated server: **[startupture_docker](https://github.com/Nhims
 
 Dockerized game servers running on Linux:
 
-- **[CS2_Regular](https://github.com/Nhimself/CS2_Regular)** + **[CS2_ArmsRace](https://github.com/Nhimself/CS2_ArmsRace)** — Counter-Strike 2 servers
-- **[space_engineers_dedicated_server](https://github.com/Nhimself/space_engineers_dedicated_server)** — Space Engineers via GE-Proton
+- **[CS:GO](https://github.com/Nhimself/csgo_docker)** - 2 counter strike servers
+- **[Space Engineers Dedicated Linux Server](https://github.com/Nhimself/space_engineers_dedicated_server)** - Space Engineers via GE-Proton running on linux
+- **[StarRupture Dedicated Server](https://github.com/Nhimself/startupture_docker)** - StarRupture dedicated server running via GE-Proton
 
 ---
 
