@@ -1,4 +1,4 @@
-# Hi, I'm Niki Mench
+# Hi, I'm Niki M
 
 15 years in product leadership. I still prefer to build things myself.
 
