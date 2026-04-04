@@ -32,7 +32,8 @@ Four skills:
 
 Mods for [StarRupture](https://store.steampowered.com/app/3809400/StarRupture/) (Steam):
 
-- **[starrupture_timermod](https://github.com/Nhimself/starrupture_timermod)** — timer mod for the AlienX modloader (free)
+- **[StarRupture TimerMod](https://github.com/Nhimself/starrupture_timermod)** - timer mod keeps track of rupture time on your screen. Build for the AlienX modloader (free)
+- **[StarRupture PingMod](https://github.com/Nhimself/starrupture_pingmod)** - ping mod allows you to ping longer than 100 meters. Build for the AlienX modloader (free)
 - **[starrupture_timermod_streamcontroller](https://github.com/Nhimself/starrupture_streamcontroller.git)** — StreamController plugin for StarRupture on Linux (free)
 - **[SteamDeck_StarRupture_Timer](https://github.com/Nhimself/SteamDeck_StarRupture_Timer)** - StreamDeck feedback integration [Elgato Marketplace](https://marketplace.elgato.com/product/star-rupture-timer-92a0d149-2c03-46c6-a245-1cdd5e39506a) — bug reports and feature requests goes in this repo
 
